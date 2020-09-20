@@ -1,2 +1,2 @@
 # card-battle-kit
-Assets for a JS card battler
+Assets for a React card battler
