@@ -22,7 +22,7 @@
     "react-dom": "^16.8.0",
     "style-loader": "^1.2.1",
     "webpack": "next",
-    "webpack-cli": "^3.3.12"
+    "webpack-cli": "next"
   },
   "peerDependencies": {
     "react": "^16.8.0",
